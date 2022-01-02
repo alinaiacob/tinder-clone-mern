@@ -1,0 +1,29 @@
+.swipeBtns{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+#icon{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.3) !important;
+    padding: 1vw !important;
+}
+.swipeBtns__repeat{
+    color:#f5b748 !important;
+}
+.swipeBtns__left{
+    color:#ec5e6f !important;
+}
+.swipeBtns__star{
+    color:#62b4f9 !important;
+}
+.swipeBtns__right{
+    color:#76e2b3 !important;
+}
+.swipeBtns__lightning{
+ 
+    color:#915dd1 !important;
+}
